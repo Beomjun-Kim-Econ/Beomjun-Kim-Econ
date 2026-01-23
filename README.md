@@ -13,6 +13,10 @@
 - Email: beomjun1588@yonsei.ac.kr
 - Blog: Constructing
 - LinkedIn: www.linkedin.com/in/beomjunkim02
+
+## Language
+- Korean (native), English (fluent)
+
 <!--
 **Beomjun-Kim-Econ/Beomjun-Kim-Econ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
