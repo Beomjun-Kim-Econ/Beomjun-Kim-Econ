@@ -14,7 +14,8 @@
 - Structural Econometrics
 - Machine Learning for Economics
 - Development Studies
-- * I enjoy building small SaaS products.
+  * I'm also interested in building SaaS products.
+
 
 
 ## Contact
