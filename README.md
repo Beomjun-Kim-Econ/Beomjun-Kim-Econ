@@ -9,10 +9,19 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 
+## Interests
+- Applied Microeconometrics (causal inference)
+- Structural Econometrics
+- Machine Learning for Economics
+- Development Studies
+- * I enjoy building small SaaS products.
+
+
 ## Contact
 - Email: beomjun1588@yonsei.ac.kr
 - Blog: Constructing
 - LinkedIn: www.linkedin.com/in/beomjunkim02
+
 
 ## Language
 - Korean (native), English (fluent)
