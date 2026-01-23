@@ -14,7 +14,7 @@
 - Structural Econometrics
 - Machine Learning for Economics  
 - Development Studies
--  \* I'm also interested in building SaaS products.
+   \* I'm also interested in building SaaS products.
 
 
 
