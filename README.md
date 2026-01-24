@@ -1,5 +1,5 @@
 ## Education
-- B.A. in Economics & Applied Statistics (Mar 2024 – present)
+-B.A. candidate in Economics & Applied Statistics, Yonsei University (Mar 2024 – present)
 
 
 ## Skillset
