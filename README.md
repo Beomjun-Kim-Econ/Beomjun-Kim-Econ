@@ -12,6 +12,7 @@
 ## Interests
 - Applied Microeconometrics (causal inference)
 - Structural Econometrics
+- Labor Economics & Growth Theory
 - Machine Learning for Economics  
 - Development Studies        
    \* I'm also interested in building SaaS products.
