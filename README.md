@@ -10,8 +10,7 @@
 
 
 ## Interests
-- Applied Microeconometrics (causal inference)
-- Structural Econometrics
+- Applied Microeconometrics & Causal Inference
 - Labor Economics & Growth Theory
 - Machine Learning for Economics  
 - Development Studies        
