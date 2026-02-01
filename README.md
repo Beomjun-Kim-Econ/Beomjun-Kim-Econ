@@ -23,7 +23,7 @@
 ## Contact
 - Email: beomjun1588@yonsei.ac.kr
 - Blog: Constructing
-- [LinkedIn](www.linkedin.com/in/beomjunkim02)
+- [LinkedIn](https://www.linkedin.com/in/beomjunkim02)
 - [Personal Website](https://sites.google.com/view/beomjun-kim/%ED%99%88)
 
 
