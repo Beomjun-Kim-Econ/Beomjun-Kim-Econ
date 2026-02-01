@@ -1,35 +1,35 @@
-## 한국어 학습용 문항 자동 생성 시스템  [GitHub Repository](https://github.com/kimdappi/KFL-AQGen-AI)
+## 🇰🇷 Korean Language Question Generation System · [GitHub Repository](https://github.com/kimdappi/KFL-AQGen-AI)
 
 - **Description**  
-  LLM 기반 한국어 학습 문항 자동 생성 시스템. 학습자 수준에 맞는 문제 생성과 구조화된 출력에 초점을 둠.
+  An LLM-based system for automatically generating Korean language learning questions, focusing on level-adaptive problem generation and structured outputs.
 
 - **Tech Stack**  
   - LLM  
   - Agentic RAG  
 
 - **Role & Contribution**  
-  - 고객 Pain Point 도출
-  - 창업 지원 성격 지원금 100만원 수주
-  - 기능 구조화 및 설계
+  - Identified key user pain points through requirement analysis  
+  - Secured external project funding (₩1,000,000) through a startup-support–oriented program  
+  - Designed and structured core system functionalities  
 
 ---
 
-## Explainable AI 개발 - 대규모 수면 데이터를 기반으로 [GitHub Repository](https://github.com/ezzyoung/bitamintimeseries)
+## 🧠 XAI Project: Medical Sleep Data Analysis · [GitHub Repository](https://github.com/ezzyoung/bitamintimeseries)
 
 - **Description**  
-  대규모 의료 수면 데이터를 활용하여 다양한 ML/DL 모델을 적용하고, 모델 해석 가능성(XAI)을 중심으로 분석.
+  An analytical project applying various machine learning and deep learning models to large-scale medical sleep data, with a focus on model interpretability (XAI).
 
 - **Tasks**  
-  - 수면 단계 예측
-  - 수면 장애 탐지  
-  - 수면 패턴 클러스터링  
+  - Sleep stage classification  
+  - Sleep disorder detection  
+  - Sleep pattern clustering  
 
 - **Tech Stack**  
   - Machine Learning / Deep Learning  
-  - 대규모 오픈소스 수면 데이터  
-  - XAI 기법 적용  
+  - Large-scale open-source sleep datasets  
+  - Explainable AI (XAI) techniques  
 
 - **Role & Contribution**  
-  - 데이터 전처리 및 분석 파이프라인 설계  
-  - 문제 정의에 따른 데이터 활용 전략 수립  
-  - 생체 데이터임을 고려하여 On-deivce 구동 가능한 경량 Tree-based 모델 개발
+  - Designed data preprocessing and analysis pipelines  
+  - Developed data utilization strategies based on problem formulation  
+  - Implemented lightweight, on-device–deployable tree-based models, considering the constraints of physiological data
