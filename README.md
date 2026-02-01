@@ -1,4 +1,4 @@
-\* You can find my project at [here](https://github.com/Beomjun-Kim-Econ/Beomjun-Kim-Econ/blob/main/my_projects.md)
+\* You can find my projects at [here](https://github.com/Beomjun-Kim-Econ/Beomjun-Kim-Econ/blob/main/my_projects.md)
 
 ## Education
 - B.A. candidate in Economics & Applied Statistics, Yonsei University (Mar 2024 – present)
