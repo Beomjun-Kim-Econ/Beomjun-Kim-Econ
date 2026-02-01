@@ -14,6 +14,27 @@
 
 ---
 
+## 🧪 Credit Risk Prediction & Data Leakage Analysis · [Presentation (KO)](https://drive.google.com/file/d/1z9__440qEtHpcwM_USZb8urkWqzhLxYj/view?usp=sharing)
+
+- **Description**  
+  A research-focused project on credit risk prediction using real-world tabular data, with an emphasis on identifying, categorizing, and empirically validating different forms of data leakage in machine learning pipelines.
+
+  Beyond conventional train–test leakage in tabular data, the project extends the analysis to **semantic data leakage in natural language processing**, demonstrating how meaning-level similarity between samples can inflate evaluation performance.
+
+- **Tech Stack**  
+  - Statistical Machine Learning  
+  - CatBoost, Logistic Regression, Linear SVM  
+  - Sentence-BERT embeddings  
+  - FAISS (HNSW) for scalable similarity search  
+
+- **Role & Contribution**  
+  - Proposed the core research idea of **semantic data leakage** beyond exact-duplicate leakage  
+  - Designed and conducted experiments to detect leakage using cosine similarity between sentence embeddings  
+  - Built an experimental pipeline combining Sentence-BERT and FAISS to identify semantically overlapping train–test samples  
+  - Analyzed performance degradation after leakage-aware data filtering, highlighting robustness and reproducibility issues
+
+---
+
 ## 🧠 XAI Project: Medical Sleep Data Analysis · [GitHub Repository](https://github.com/ezzyoung/bitamintimeseries)
 
 - **Description**  
