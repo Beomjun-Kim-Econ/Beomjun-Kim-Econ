@@ -1,5 +1,3 @@
----
-
 ## 한국어 학습용 문항 자동 생성 시스템  [GitHub Repository](https://github.com/kimdappi/KFL-AQGen-AI)
 
 - **Description**  
