@@ -1,5 +1,5 @@
 # Data Science & AI
-## 🇰🇷 Korean Language Question Generation System · [GitHub Repository](https://github.com/kimdappi/KFL-AQGen-AI)
+## Korean Language Question Generation System · [GitHub Repository](https://github.com/kimdappi/KFL-AQGen-AI)
 
 - **Description**  
   An LLM-based system for automatically generating Korean language learning questions, focusing on level-adaptive problem generation and structured outputs.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧪 Credit Risk Prediction & Data Leakage Analysis · [Presentation (KO)](https://drive.google.com/file/d/1z9__440qEtHpcwM_USZb8urkWqzhLxYj/view?usp=sharing)
+## Credit Risk Prediction & Data Leakage Analysis · [Presentation (KO)](https://drive.google.com/file/d/1z9__440qEtHpcwM_USZb8urkWqzhLxYj/view?usp=sharing)
 
 - **Description**  
   A research-focused project on credit risk prediction using real-world tabular data, with an emphasis on identifying, categorizing, and empirically validating different forms of data leakage in machine learning pipelines.
@@ -36,7 +36,7 @@
 
 ---
 
-## 🧠 XAI Project: Medical Sleep Data Analysis · [GitHub Repository](https://github.com/ezzyoung/bitamintimeseries)
+## XAI Project: Medical Sleep Data Analysis · [GitHub Repository](https://github.com/ezzyoung/bitamintimeseries)
 
 - **Description**  
   An analytical project applying various machine learning and deep learning models to large-scale medical sleep data, with a focus on model interpretability (XAI).
