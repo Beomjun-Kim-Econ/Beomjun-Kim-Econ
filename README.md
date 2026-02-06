@@ -12,10 +12,10 @@
 
 
 ## Interests
-- Applied Microeconometrics & Causal Inference
-- Labor Economics & Growth Theory
-- Machine Learning for Economics  
-- Development Studies        
+- Machine Learning for Economics
+- Causal Inference & Data Analysis
+- Labor Economics & Development Economics
+- LLMs & NLP        
    \* I'm also interested in building SaaS products.
 
 
@@ -25,6 +25,7 @@
 - Blog: Constructing
 - [LinkedIn](https://www.linkedin.com/in/beomjunkim02)
 - [Personal Website](https://sites.google.com/view/beomjun-kim/%ED%99%88)
+- [CV](https://drive.google.com/file/d/11-VuixJA9x0fiR5ur57RfJKSbpfaPvUA/view?usp=sharing)
 
 
 ## Language
