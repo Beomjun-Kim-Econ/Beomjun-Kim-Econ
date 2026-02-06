@@ -25,7 +25,7 @@
 - Blog: Constructing
 - [LinkedIn](https://www.linkedin.com/in/beomjunkim02)
 - [Personal Website](https://sites.google.com/view/beomjun-kim/%ED%99%88)
-- [CV](https://drive.google.com/file/d/11-VuixJA9x0fiR5ur57RfJKSbpfaPvUA/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/1M9Lxs8GTiFmNaURcm_QIEyl2VqILWj0H/view?usp=sharing)
 
 
 ## Language
