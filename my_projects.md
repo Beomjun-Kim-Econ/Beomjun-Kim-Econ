@@ -36,7 +36,7 @@
 
 ---
 
-## XAI Project: Medical Sleep Data Analysis · [GitHub Repository](https://github.com/ezzyoung/bitamintimeseries)
+## XAI Project: Medical Sleep Data Analysis ·  [Presentation (KO)](https://drive.google.com/file/d/1z9__440qEtHpcwM_USZb8urkWqzhLxYj/view?usp=sharing](https://drive.google.com/file/d/1gQQZPU531Op5OcjRbDsSlpCqWzKtzsvA/view?usp=sharing) · [GitHub Repository](https://github.com/ezzyoung/bitamintimeseries)
 
 - **Description**  
   An analytical project applying various machine learning and deep learning models to large-scale medical sleep data, with a focus on model interpretability (XAI).
