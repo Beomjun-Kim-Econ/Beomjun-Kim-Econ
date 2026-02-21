@@ -20,7 +20,7 @@
 
 ---
 
-## Monetary Policy Surprise & News Sentiment Analysis  · [Presentation (KO)](https://drive.google.com/file/d/1gQQZPU531Op5OcjRbDsSlpCqWzKtzsvA/view?usp=drive_link)
+## Monetary Policy Surprise & News Sentiment Analysis  · [Presentation (KO)](https://drive.google.com/file/d/1tT8k7YFXMzhjjQb0YTIFPWJyjXqrI8Ge/view?usp=drive_link)
 
 - **Description**  
   An event-study–based time-series analysis examining how unexpected monetary policy decisions affect stock market volatility, incorporating news headline sentiment as a moderating factor.
