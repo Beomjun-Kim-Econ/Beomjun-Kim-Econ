@@ -1,20 +1,4 @@
-# Data Science & AI
-## Korean Language Question Generation System · [GitHub Repository](https://github.com/kimdappi/KFL-AQGen-AI)
-
-- **Description**  
-  An LLM-based system for automatically generating Korean language learning questions, focusing on level-adaptive problem generation and structured outputs.
-
-- **Tech Stack**  
-  - LLM  
-  - Agentic RAG  
-
-- **Role & Contribution**  
-  - Identified key user pain points through requirement analysis  
-  - Secured external project funding (₩1,000,000) through a startup-support–oriented program  
-  - Designed and structured core system functionalities  
-
----
-
+# Data Analysis
 ## Credit Risk Prediction & Data Leakage Analysis · [Presentation (KO)](https://drive.google.com/file/d/1z9__440qEtHpcwM_USZb8urkWqzhLxYj/view?usp=sharing)
 
 - **Description**  
@@ -33,6 +17,41 @@
   - Designed and conducted experiments to detect leakage using cosine similarity between sentence embeddings  
   - Built an experimental pipeline combining Sentence-BERT and FAISS to identify semantically overlapping train–test samples  
   - Analyzed performance degradation after leakage-aware data filtering, highlighting robustness and reproducibility issues
+
+---
+
+## Monetary Policy Surprise & News Sentiment Analysis  · [Presentation (KO)](https://drive.google.com/file/d/1gQQZPU531Op5OcjRbDsSlpCqWzKtzsvA/view?usp=drive_link)
+
+- **Description**  
+  An event-study–based time-series analysis examining how unexpected monetary policy decisions affect stock market volatility, incorporating news headline sentiment as a moderating factor.
+
+- **Tech Stack**  
+  - Time-Series Analysis & OLS with HAC (Newey–West) Standard Errors  
+  - NLP (eKoNLPy)
+  - Statistical Inference
+
+- **Role & Contribution**  
+  - Led the research design and structured an event-study framework using unexpected monetary policy shocks  
+  - Built a Korean news sentiment pipeline using eKoNLPy with domain-specific lexicon adjustments  
+  - Constructed event-window–based panel data (D-28 to D+7) and examined heterogeneous effects through interaction terms  
+  - Applied robust standard errors to account for autocorrelation and conducted OLS diagnostic checks  
+
+
+
+# Applied AI
+## Korean Language Question Generation System · [GitHub Repository](https://github.com/kimdappi/KFL-AQGen-AI)
+
+- **Description**  
+  An LLM-based system for automatically generating Korean language learning questions, focusing on level-adaptive problem generation and structured outputs.
+
+- **Tech Stack**  
+  - LLM  
+  - Agentic RAG  
+
+- **Role & Contribution**  
+  - Identified key user pain points through requirement analysis  
+  - Secured external project funding (₩1,000,000) through a startup-support–oriented program  
+  - Designed and structured core system functionalities  
 
 ---
 
