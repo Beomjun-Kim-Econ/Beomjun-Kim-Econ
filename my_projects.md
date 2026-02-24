@@ -22,21 +22,24 @@
 
 ## Monetary Policy Surprise & News Sentiment Analysis  · [Presentation (KO)](https://drive.google.com/file/d/1tT8k7YFXMzhjjQb0YTIFPWJyjXqrI8Ge/view?usp=drive_link)
 
-- **Description**  
-  An event-study–based time-series analysis examining how unexpected monetary policy decisions affect stock market volatility, incorporating news headline sentiment as a moderating factor.
+* **Description**
+  A one-week pilot, exploratory event-study time-series analysis testing whether unexpected monetary policy shocks are associated with next-day changes in stock market volatility, and whether Korean news headline sentiment moderates that response.
 
-- **Tech Stack**  
-  - Time-Series Analysis & OLS with HAC (Newey–West) Standard Errors  
-  - NLP (eKoNLPy)
-  - Statistical Inference
+  Using Bank of Korea MPB surprise events as quasi-exogenous shocks, the project constructs an event-window panel and standardizes headline sentiment relative to a pre-event baseline to quantify abnormal news tone around the events.
 
-- **Role & Contribution**  
-  - Led the research design and structured an event-study framework using unexpected monetary policy shocks  
-  - Built a Korean news sentiment pipeline using eKoNLPy with domain-specific lexicon adjustments  
-  - Constructed event-window–based panel data (D-28 to D+7) and examined heterogeneous effects through interaction terms  
-  - Applied robust standard errors to account for autocorrelation and conducted OLS diagnostic checks  
+* **Tech Stack**
 
+  * Event-Study Design & Time-Series Regression
+  * OLS with HAC (Newey–West) Standard Errors
+  * NLP Sentiment Scoring (eKoNLPy + Mecab)
+  * Regression Diagnostics (VIF, residual checks)
 
+* **Role & Contribution**
+
+  * Designed a heterogeneous-effects specification using interaction terms (Surprise × Low/High News) to test regime-dependent volatility responses
+  * Built a Korean finance-domain headline sentiment pipeline (BigKinds sampling → Mecab tokenization → eKoNLPy lexicon scoring), including domain-specific lexicon adjustments
+  * Engineered an event-window panel dataset (D-28 to D+7), defining a pre-event baseline (D-28 to D-7) and excluding the immediate pre-event window (D-6 to D-1) to reduce contamination
+  * Implemented HAC-robust inference to account for autocorrelation and documented scope limitations (small number of surprise events) for transparent interpretation
 
 
 
