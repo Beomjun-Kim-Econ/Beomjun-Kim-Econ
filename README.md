@@ -8,6 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1A5F9E?logo=stata&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?logo=latex&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
